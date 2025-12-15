@@ -1,14 +1,14 @@
 module.exports = {
     // your server name
-    server_name: "Growtopia",
+    server_name: "GTPS-6",
     // public ipv4
-    server_ip: "127.0.0.1",
+    server_ip: "51.120.112.53",
     // UDP port
-    server_port: 17091,
+    server_port: 17099,
     // login url dashboard
-    loginurl: "osm.growplus.asia",
+    loginurl: "gtps6.vercel.app",
     // for new server header
     type2: true,
     // meta
-    meta: "name=GrowPlus&ip=127.0.0.1&port=17091&3rd=0",
+    meta: "name=GTPS-6&ip=51.120.112.53&port=17099&3rd=0",
 }
